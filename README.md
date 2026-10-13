@@ -93,7 +93,7 @@ Uploaded resumes are kept in memory only for the current session. Nothing is wri
 - Source citation
 - Resume comparison
 - Voice input
-- Deployment on Streamlit Cloud
+
 
 ---
 
