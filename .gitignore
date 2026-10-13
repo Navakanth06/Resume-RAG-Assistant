@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# ChromaDB database
+chroma_db/
+
+# Streamlit cache (optional)
+.streamlit/
+
+# Operating system files
+.DS_Store
+Thumbs.db
